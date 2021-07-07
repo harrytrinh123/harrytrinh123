@@ -12,5 +12,5 @@
 </p>
 
 <p align="right">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=jacktrinh123&layout=compact&text_color=daf7dc&bg_color=222222
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktrinh123&layout=compact&text_color=daf7dc&bg_color=222222)
 </p>
