@@ -1,4 +1,4 @@
-# 👋  Hi, I'm Jack Trinh from :vietnam:
+# 👋  Hi, I'm Jack Trinh from 🇻🇳
 
 <p align="center"></p>
 
