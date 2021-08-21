@@ -1,4 +1,4 @@
-# 👋  Hi, I'm Jack Trinh from 🇻🇳
+# 👋  Hi, I'm Harry Trinh from 🇻🇳
 
 <p align="center"></p>
 
