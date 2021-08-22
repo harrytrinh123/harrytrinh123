@@ -1,4 +1,4 @@
-# 👋  Hi, I'm Harry Trinh from Viet Nam <img src="https://user-images.githubusercontent.com/40319325/130353809-039f3cbf-13e6-446a-b0be-8ee2cf77bc9d.png" alt="drawing" style="width:10px;"/>
+# 👋  Hi, I'm Harry from Viet Nam
 
 # Welcome to my github profile
 
