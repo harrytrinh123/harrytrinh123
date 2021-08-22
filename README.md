@@ -1,6 +1,4 @@
-# 👋  Hi, I'm Harry from Viet Nam
-
-# Welcome to my github profile
+# 👋  Hi, I'm Harry from Viet Nam. Welcome to my github.
 
 <p align="center"></p>
 
