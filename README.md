@@ -1,4 +1,6 @@
-# 👋  Hi, I'm Harry Trinh from 🇻🇳
+# 👋  Hi, I'm Harry Trinh from Viet Nam ![Flag_of_North_Vietnam_(1945–1955) svg](https://user-images.githubusercontent.com/40319325/130353809-039f3cbf-13e6-446a-b0be-8ee2cf77bc9d.png)
+
+# Welcome to my github profile
 
 <p align="center"></p>
 
